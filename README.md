@@ -1,4 +1,4 @@
-# HPC101-AscendC-FusedRMSNorm
+﻿# HPC101-AscendC-FusedRMSNorm
 
 Fused Add + RMS Normalization kernel optimization on Huawei Ascend 910B NPU using Ascend C.
 

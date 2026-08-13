@@ -1,0 +1,12 @@
+﻿build/
+build_out/
+dist/
+*.egg-info/
+*.pyc
+__pycache__/
+*.o
+*.so
+*.whl
+prof_out/
+j*.out
+.vscode/
